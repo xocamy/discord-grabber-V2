@@ -1,6 +1,6 @@
-# RestartVirus
+# Discord Token Grabber
 
-RestartVirus is a java based program that will restart a victims pc every 1 hour, note that its just a template and can be used anyway, Im still learning java and this is a fun idea i came up with to increase my knowledge of java. Its not the best and it uses a 2 libraries as i was struggling to do it in plain java. It would be appreciated if you tried to add some things through a pull request
+TokenVirus is a java based program that will grabs a victims pc every 1 hour, note that its just a template and can be used anyway, Im still learning java and this is a fun idea i came up with to increase my knowledge of java. Its not the best and it uses a 2 libraries as i was struggling to do it in plain java. It would be appreciated if you tried to add some things through a pull request
 **Currently only works on windows and on the systems which have java installed**
 
 
